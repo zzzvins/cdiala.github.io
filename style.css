@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    border: 3px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
