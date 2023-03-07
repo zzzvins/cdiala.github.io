@@ -1,5 +1,7 @@
 # cdiala.github.io
 
+Clark Vince Diala
+
 Exercise (10 pts)
 
 Each student must create a GitHub Page (https://pages.github.com) using HTML and CSS. Guidelines:
